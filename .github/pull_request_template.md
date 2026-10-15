@@ -11,4 +11,4 @@
 <!-- Describe any documentation changes, or write "None". -->
 
 ## Security impact
-<!-- For changes to agent policies or permissions, describe the security impact. Otherwise, write "Not applicable". -->
+<!-- For changes to agent policies or permissions, describe the security impact. Otherwise, write "None". -->
